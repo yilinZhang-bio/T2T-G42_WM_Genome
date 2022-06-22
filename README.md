@@ -2,7 +2,9 @@
 
 ## <div align='center'>Watermelon G42 Genome</div>
 ### <div align='center'>Home | Search | Batch query | BLAST | Genome Browser | Pathway | [Download](http://www.watermelondb.cn/)</div>
-+ Overnew
++ Overview
+    |**Full Name**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;|Citrullus lanatus subsp. vulgaris cv. G42|
+    |:-|:-|
     |**Genus**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Citrullus|
     |**Species**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&thinsp;|lanatus|
     |**Subspecies**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|vulgaris|
